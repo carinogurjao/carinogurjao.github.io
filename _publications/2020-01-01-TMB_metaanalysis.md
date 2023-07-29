@@ -3,7 +3,7 @@ title: "Is tumor mutational burden predictive of response to immunotherapy?"
 collection: publications
 permalink: /publication/2020-01-01-TMB_metaanalysis
 excerpt: 'This study challenges one of the central paradigms in cancer immunology: the notion that a high number of mutations — and the resulting neoantigens, recognized as ‘foreign’ by T-cells — elicits a better antitumour immune response. Several pioneering papershave suggested that tumours with a high load of mutations better respond to immunotherapy; these studies have been the basis of the FDA approval of TMB to prioritize patients who would most likely benefit from immunotherapy. We revisit this claim by conducting a pan-cancer meta-analysis: we aggregate the largest available dataset of immunotherapy patients, reuniting more than 2,500 individuals, with available TMB data and clinical annotations.'
-date: 2020
+date: 2020-01-01
 venue: 'eLife'
 paperurl: 'http://carinogurjao.github.io/files/eLife_2020.pdf'
 citation: 'Gurjao, C., Tsukrov, D., Imakaev, M., Luquette, L. J. & Mirny, L. A. Limited evidence of tumour mutational burden as a biomarker of response to immunotherapy. BioRxiv (2020).'
