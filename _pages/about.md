@@ -46,16 +46,14 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid white;
 }
 blockquote {
-    border-left: solid blue;
+    border-left: solid white;
     padding-left: 10px;
 }
 </style>
 
-| Column One    | Column Two    |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
-| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. In addition, the immune system can shape the mutational landscape by weeding out cells with too many mutations (a theory called "neoantigen theory"). | Immunotherapy is effective for several cancer types, however, its clinical use is encumbered by a high variability in patient response.
-
-My work showed the potential pitfalls of an FDA-approved biomarker of immunotherapy response by (i) a meta-analysis of current studies and (ii) the exploratory analysis of a patient's tumor who did not respond to immunotherapy despite the FDA indication. |   
+| | |                                                                                                                                                   
+| | |                                                                                                                                                   
+| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. In addition, the immune system can shape the mutational landscape by weeding out cells with too many mutations (a theory called "neoantigen theory"). | Immunotherapy is effective for several cancer types, however, its clinical use is encumbered by a high variability in patient response. My work showed the potential pitfalls of an FDA-approved biomarker of immunotherapy response by (i) a meta-analysis of current studies and (ii) the exploratory analysis of a patient's tumor who did not respond to immunotherapy despite the FDA indication. |   
