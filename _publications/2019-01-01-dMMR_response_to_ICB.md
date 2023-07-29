@@ -1,7 +1,7 @@
 ---
 title: "Intrinsic Resistance to Immune Checkpoint Blockade in a Mismatch Repair–Deficient Colorectal Cancer"
 collection: publications
-permalink: /publication/2019-dMMR_response_to_ICB
+permalink: /publication/2019-01-01-dMMR_response_to_ICB
 excerpt: 'Tumours with a high number of mutations, in particular those with DNA repair defects such as Microsatellite Instability (MSI), are FDA-approved for immunotherapy; yet not all patients respond. This study aimed at refining our understanding of the link between TMB and immunotherapy response. To this end, we conducted an exploratory analysis of a patient who did not respond to immunotherapy despite having an MSI colorectal tumour.'
 date: 2019
 venue: 'Cancer Immunology Research'

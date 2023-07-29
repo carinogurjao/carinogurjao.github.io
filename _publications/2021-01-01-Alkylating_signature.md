@@ -1,7 +1,7 @@
 ---
 title: "Discovery and Features of an Alkylating Signature in Colorectal Cancer"
 collection: publications
-permalink: /publication/Cancer_Discover_2021
+permalink: /publication/2021-01-01-Alkylating_signature
 excerpt: 'Colorectal cancer (CRC) is currently the third most common cancer in the world. In the last decade, there has been a concerning trend of early-onset CRC: by 2040, it is predicted to become the leading cause of cancer death in individuals between 20 and 40 years old. Although the reasons for this trend are unclear, diet, in particular red meat consumption, has been hypothesized to play a role. However, no mutagenic role of red meat has been observed in human colons yet. This study presents the mutational signature analysis of a comprehensive CRC molecular profiling study: 900 tumours were sequenced from tissue biopsies collected over four decades. Along with molecular data, this study leveraged detailed information, collected every other year, on the lifestyle of CRC patients. This comprehensive cohort allows us to accurately estimate mutagenic processes in CRC and better understand how they are related to lifestyle factors.'
 date: 2021
 venue: 'Cancer Discovery'
