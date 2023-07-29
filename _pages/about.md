@@ -49,7 +49,7 @@ blockquote {
     padding-left: 0px;
 }
 </style>
-|![Columbia logo](/images/Columbia_logo.png){: .align-center width="800px"}| ![Harvard logo](/images/Harvard_logo.webp){: .align-center width="800px"} | ![MIT logo](/images/MIT_logo.png){: .align-center width="800px"}|
+|![Columbia logo](/images/Columbia_logo.png){: .align-center width="100px"}| ![Harvard logo](/images/Harvard_logo.webp){: .align-center width="100px"} | ![MIT logo](/images/MIT_logo.webp){: .align-center width="100px"}|
 | **Postdoctoral researcher** | **Computational biologist** | **Visiting student** | ** Student** |
 
 
