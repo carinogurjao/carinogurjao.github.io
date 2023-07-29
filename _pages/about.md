@@ -43,18 +43,12 @@ Collaborations:
 - Li et al., Nature Communications 2019
 - Sehgal et al., The Journal of clinical investigation 2021
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid white;
-}
-blockquote {
-    border-left: solid white;
-    padding-left: 0px;
-}
-</style>
+<table width="100%">
+  <tr>
+  <td width="50%"></td>
+  <td width="50%"></td>
+  </tr>
+</table>
 
 | What shapes the tumor mutational landscape? | Can the mutational landscape inform therapy selection? |
 | | |
