@@ -11,7 +11,7 @@ redirect_from:
 I study patterns of mutations in the cancer genome. I aim to better understand which mutagenic factors shape these patterns and how they can in return inform therapy selection.
 
 
-![Illustration of my research interests](/images/Research_interest.png){: .align-center width="1000px"}
+![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
 
 <style>
 table {
