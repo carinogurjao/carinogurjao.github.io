@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am a postdoctoral researcher in Cancer Genomics at Columbia University. For more information about me or my research, do not hesitate to contact me through my email <strong>carinogutjao at gmail dot com</strong>  </p>
+<p>I am a postdoctoral researcher in Cancer Genomics at Columbia University. For more information about me or my research, do not hesitate to contact me through my email carinogurjao at gmail dot com.  </p>
 <p>You can also find a complete list of my research publications in  my  <a href="https://scholar.google.com/citations?user=m3rLfS4AAAAJ&hl=en">Google Scholar</a> profile. </p>
 
 <h2> Research </h2>
@@ -52,10 +52,9 @@ blockquote {
 }
 </style>
 |![Columbia logo](/images/Columbia_logo.png){: .align-center width="100px"}| ![Harvard logo](/images/Harvard_logo.webp){: .align-center width="100px"} | ![MIT logo](/images/MIT_logo.webp){: .align-center width="100px"}|
-| **Postdoctoral researcher** | **Computational biologist** | **Visiting student** | ** Student** |
+| **Postdoctoral researcher** | **Computational biologist** | **Visiting student** |
 
-
-<br><p> If you want to know more about my academic positions you can take a look at my <a href="https://carinogurjao.github.io/cv/"> CV </a></p>
+<p> If you want to know more about my academic positions you can take a look at my <a href="https://carinogurjao.github.io/cv/"> CV </a></p> or my <a href="https://carinogurjao.github.io/cv/"> linkedin
 
 
 
