@@ -33,9 +33,8 @@ blockquote {
 }
 </style>
 
-<div align="center">
-| **What shapes the tumor mutational landscape?** | **Can the mutational landscape inform clinical decisions?** |
-| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci. | Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, however, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers.|   
+|: **What shapes the tumor mutational landscape?** :|: **Can the mutational landscape inform clinical decisions?** :|
+|: Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci. :|: Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, however, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers. :|   
 
 <h2> Experience </h2>
 
@@ -53,9 +52,9 @@ blockquote {
     padding-left: 0px;
 }
 </style>
-<div align="center">
-|![Columbia logo](/images/Columbia_logo.png){: .align-center width="100px"}| ![Harvard logo](/images/Harvard_logo.webp){: .align-center width="100px"} | ![MIT logo](/images/MIT_logo.webp){: .align-center width="100px"}|
-| **Postdoctoral researcher** | **Computational biologist** | **Visiting student** |
+
+|![Columbia logo](/images/Columbia_logo.png){: .align-center width="100px"} :|: ![Harvard logo](/images/Harvard_logo.webp){: .align-center width="100px"} "|: ![MIT logo](/images/MIT_logo.webp){: .align-center width="100px"} :|: ![Curie logo](/images/Curie_logo.png){: .align-center width="100px"} :|
+|: **Postdoctoral researcher** :|: **Computational biologist** | **Visiting student** :|: ** Student** :|
 
 <p> If you want to know more about my academic positions you can take a look at my <a href="https://carinogurjao.github.io/cv/"> CV </a></p> or my <a href="https://carinogurjao.github.io/cv/"> linkedin
 
