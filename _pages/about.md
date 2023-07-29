@@ -11,7 +11,7 @@ redirect_from:
 I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform therapy selection.
 
 
-![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
+![Illustration of my research interests](/images/Research_interests.png){: .align-center width="800px"}
 
 <style>
 table {
