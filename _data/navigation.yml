@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Recognitions"
-    url: /Recognitions/
+#  - title: "Recognitions"
+#    url: /Recognitions/
 
   - title: "CV"
     url: /files/Resume_CarinoGurjao.pdf
     
-  - title: "Research projects"
-    url: /Research-projects/
+#  - title: "Research projects"
+#    url: /Research-projects/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
