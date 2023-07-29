@@ -83,11 +83,11 @@ author:
   name             : "Carino Gurjao"
   avatar           : "profile_Carino.webp"
   bio              : "I study patterns of mutations in the cancer genome. I aim to better understand which mutagenic factors shape these patterns and how they can in return inform therapy selection."
-  location         : "USA"
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=m3rLfS4AAAAJ&hl=en"
-  email            :
+  email            : carinogurjao at gmail dot com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
