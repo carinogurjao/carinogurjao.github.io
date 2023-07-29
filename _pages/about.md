@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome, I'm Carino"
+title: "Welcome, I'm Carino!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I study patterns of mutations in the cancer genome. I aim to better understand which mutagenic factors shape these patterns and how they can in return inform therapy selection.
+I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform therapy selection.
 
 
 ![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
@@ -29,4 +29,4 @@ blockquote {
 </style>
 
 | **What shapes the tumor mutational landscape?** | **Can the mutational landscape inform therapy selection?** |
-| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. In addition, the immune system can shape the mutational landscape by weeding out cells with too many mutations (a theory called "neoantigen theory"). <br /> My work showed for the first time the mutational imprint linking red meat and colorectal cancer. <br /> First author work:<br />+ Gurjao et al., Cancer Discovery 2021<br />In addition, I contributed to projects showing (i) for the first time a mutational imprint left by a gut bacterium and (ii) the interplay between a gut bacterium and immune cells.<br/>Collaborations:<br />+ Pleguezuelos et al., Nature 2020<br />+ Borowsky et al., Clinical Cancer Research 2021 | Immunotherapy is effective for several cancer types, however, its clinical use is encumbered by a high variability in patient response.<br />My work showed the potential pitfalls of an FDA-approved biomarker of immunotherapy response by (i) a meta-analysis of current studies and (ii) the exploratory analysis of a patient's tumor who did not respond to immunotherapy despite the FDA indication.<br />First author work:<br />+ Gurjao et al., Cancer Immunology Research 2019<br />+ Gurjao et al., Biorxiv 2020<br />In addition, I contributed to projects showing (i) the potential use of metabolites to predict response and (ii) a subpopulation of tumor cells resistant to immunotherapy<br />Collaborations:<br />+ Li et al., Nature Communications 2019<br />+ Sehgal et al., The Journal of clinical investigation 2021 |   
+| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci. | Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, however, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers.|   
