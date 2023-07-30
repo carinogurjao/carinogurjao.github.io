@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Recognitions"
-#    url: /Recognitions/
+  - title: "Recognitions"
+    url: /Recognitions/
     
   - title: "Research focus"
     url: /research_focus/
