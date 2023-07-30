@@ -60,3 +60,19 @@ blockquote {
 <h2> Recognition </h2>
 
 
+<style> 
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+table, th, td {
+   border: 1px solid white;
+}
+blockquote {
+    border-left: solid white;
+    padding-left: 0px;
+}
+</style>
+
+|  ![TEDx logo](/images/TEDx_logo.webp)  |  ![Forbes logo](/images/30u30_logo.webp)  |  ![Le Monde logo](/images/LM_logo.webp)  |  ![NCI logo](/images/NCI_logo.webp)  |
