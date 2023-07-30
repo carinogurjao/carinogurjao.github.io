@@ -53,11 +53,10 @@ blockquote {
 }
 </style>
 
-<style> body {text-align: center} </style>
+<center>
 |![Columbia logo](/images/Columbia_logo.png){ .align-center width="100px"} | ![Harvard logo](/images/Harvard_logo.webp){ .align-center width="100px"} "| ![MIT logo](/images/MIT_logo.webp){ .align-center width="100px"} | ![Curie logo](/images/Curie_logo.png){ .align-center width="100px"} |
 |**Postdoctoral researcher**|**Computational biologist** | **Visiting student**|** Student**|
-
-<style> body {text-align: left} </style>
+</center>
 
 <p> If you want to know more about my academic positions you can take a look at my <a href="https://carinogurjao.github.io/cv/"> CV </a></p> or my <a href="https://carinogurjao.github.io/cv/"> linkedin
 
