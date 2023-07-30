@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 👨🏻‍💻 I am a postdoctoral research scientist at Columbia University. <br>
 🔬 My research interests are in omics data analysis and integration for cancer <br>
 🔍 I’m currently open for faculty positions in cancer research <br>
 
 <h2> Research </h2>
 I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.
-![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
 
+![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
 <style>
 table {
     border-collapse: collapse;
@@ -34,7 +35,6 @@ blockquote {
 | Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci. | Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, however, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers. |   
 
 <h2> Experience </h2>
-
 <style> 
 table {
     border-collapse: collapse;
@@ -62,7 +62,7 @@ table {
     border: 0px;
 }
 table, th, td {
-   border: 0px solid white;
+   border: 1px solid white;
 }
 blockquote {
     border-left: solid white;
