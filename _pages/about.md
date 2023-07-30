@@ -10,6 +10,8 @@ redirect_from:
 
 <h2> Bio </h2>
 
+I am a postdoctoral research scientist at Columbia University. I am passionate about omics data analysis and integration for cancer research.
+
 <h2> Research </h2>
 
 I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.
@@ -65,7 +67,7 @@ table {
     border-collapse: collapse;
     table-layout: fixed;
     width: 100%;
-    background-color: white;
+    border:0
 }
 table, th, td {
    border: 1px solid white;
@@ -78,4 +80,4 @@ blockquote {
 
 |  ![TEDx logo](/images/TEDx_logo.webp)  |  ![Forbes logo](/images/30u30_logo.webp)  |  ![Le Monde logo](/images/LM_logo.webp)  |  ![NCI logo](/images/NCI_logo.webp)  |
 |:-:|:-:|:-:|:-:|
-|  <a href="https://carinogurjao.github.io/cv/"> TEDx talk|<a href="https://carinogurjao.github.io/cv/"> Forbes 30 under 30| <a href="https://carinogurjao.github.io/cv/"> Interview with Le Monde | <a href="https://carinogurjao.github.io/cv/"> NCI coverage |
+|  <a href="https://www.youtube.com/watch?v=f-8bwiOEHcU"> TEDx talk|<a href="https://www.forbes.com/profile/carino-gurjao/?sh=6573cada6ee9"> Forbes 30 under 30| <a href="https://www.lemonde.fr/planete/article/2021/06/22/le-lien-entre-consommation-de-viande-rouge-et-cancer-colorectal-mieux-compris_6085111_3244.html"> Interview with Le Monde | <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/red-meat-colorectal-cancer-genetic-signature"> NCI coverage |
