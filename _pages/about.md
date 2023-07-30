@@ -18,7 +18,7 @@ I study DNA patterns in the tumor genome. I aim to better understand which facto
 
 ![Illustration of my research interests](/images/Research_interests.png){: .align-center width="800px"}
 
-<style> body {text-align: left}
+<style>
 table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -38,7 +38,7 @@ blockquote {
 
 <h2> Experience </h2>
 
-<style> body {text-align: center}
+<style> 
 table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -55,7 +55,7 @@ blockquote {
 
 |  ![Columbia logo](/images/Columbia_logo.png)  |  ![Harvard logo](/images/Harvard_logo.webp)  |  ![MIT logo](/images/MIT_logo.webp)  |  ![Curie logo](/images/Curie_logo.png)  |
 |:-:|:-:|:-:|:-:|
-|  **Postdoctoral researcher**<br>(2022-Now)<br>P.I.: Izar B, MD, Assistant Professor of Medicine at Columbia<br>Research topics:<br> 1) Role of genetic ancestry in colorectal cancer development. Analysis of DNA sequencing from 575 African American and Hispanic American patients.<br> 2) Evidence of molecular synergy for combination immunotherapies.|  **Computational biologist**  |  **Visiting student**  |  **Visiting Student**  |
+|  **Postdoctoral researcher**<br>(2022-Now)<br>**P.I.:** Izar B, MD, Assistant Professor of Medicine at Columbia<br>**Research topics:**<br> 1) Role of genetic ancestry in colorectal cancer development. Analysis of DNA sequencing from 575 African American and Hispanic American patients.<br> 2) Evidence of molecular synergy for combination immunotherapies.|  **Computational biologist**  |  **Visiting student**  |  **Visiting Student**  |
 
 <p> If you want to know more about my academic positions you can take a look at my <a href="https://carinogurjao.github.io/cv/"> CV </a></p> or my <a href="https://carinogurjao.github.io/cv/"> linkedin
 
