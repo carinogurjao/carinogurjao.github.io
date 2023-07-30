@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome, I'm Carino!"
+title: "👋🏼 Hi there, I’m Carino!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,9 @@ redirect_from:
 
 <h2> Bio </h2>
 
-I am a postdoctoral research scientist at Columbia University. I am passionate about omics data analysis and integration for cancer research.
+👨🏻‍💻 I am a postdoctoral research scientist at Columbia University. 
+🔬 My research interests are omics data analysis and integration for cancer 
+📚 I’m currently applying for faculty positions in the USA
 
 <h2> Research </h2>
 
