@@ -7,7 +7,7 @@ thumbnail: /images/3d_genome.jpeg
 works: '
 <b>Selected Publications:</b> 
 <ol class="part1">
-  <li> C. Gurjao and L.Mirny</li>
+  <li> C. Gurjao and L.Mirny, in progress</li>
 </ol>
 '
 ---
