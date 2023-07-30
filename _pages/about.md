@@ -18,7 +18,7 @@ I study DNA patterns in the tumor genome. I aim to better understand which facto
 
 ![Illustration of my research interests](/images/Research_interests.png){: .align-center width="800px"}
 
-<style>
+<style> body {text-align: left}
 table {
     border-collapse: collapse;
     table-layout: fixed;
