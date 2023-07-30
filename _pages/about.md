@@ -67,10 +67,10 @@ table {
     border-collapse: collapse;
     table-layout: fixed;
     width: 100%;
-    border:0
+    border:0;
 }
 table, th, td {
-   border: 1px solid white;
+   border: 0px solid white;
 }
 blockquote {
     border-left: solid white;
