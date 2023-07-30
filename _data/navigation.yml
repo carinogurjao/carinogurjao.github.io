@@ -9,8 +9,8 @@ main:
   - title: "CV"
     url: /files/Resume_CarinoGurjao.pdf
         
-  - title: "Talks"
-    url: /talks/
+#  - title: "Talks"
+#    url: /talks/
     
 #  - title: "Recognitions"
 #    url: /Recognitions/
