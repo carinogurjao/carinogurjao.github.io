@@ -55,6 +55,7 @@ blockquote {
 <h2> Recognition </h2>
 <style> 
 table {
+    border-spacing: 0;
     border-collapse: collapse;
     table-layout: fixed;
     width: 100%;
