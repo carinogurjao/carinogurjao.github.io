@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carino's homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Carino Gurjao"
 description              : &description "personal description"
