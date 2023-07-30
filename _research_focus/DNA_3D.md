@@ -3,7 +3,7 @@ title: "Structural variants in the three-dimensional cancer genome"
 excerpt: "As a promising technology in beyond-5G (B5G) and 6G, dual-function radar-communication (DFRC) aims to ensure both radar sensing and communication on a single integrated platform with unified signaling schemes. By integrating millimeter wave (mmWave) DFRC and massive multiple-input multipleoutput (MIMO), the DFRC can achieve high-precision sensing while guaranteeing high-throughput communications, which has emerged as a potential enabler for future B5G and 6G. We investigate the DFRC system with low-complexity hardware, intelligent reflecting surface aided DFRC and performance bound analysis of DFRC."
 collection: research
 permalink: /research/DNA_3D
-thumbnail: /images/research/3d_genome.jpeg
+thumbnail: /images/3d_genome.jpeg
 works: '
 <b>Selected Publications:</b> 
 <ol class="part1">
@@ -13,12 +13,9 @@ works: '
 '
 ---
 
-
-
 **Abstract:** As a promising technology in beyond-5G (B5G) and 6G, dual-function radar-communication (DFRC) aims to ensure both radar sensing and communication on a single integrated platform with unified signaling schemes. By integrating millimeter wave (mmWave) DFRC and massive multiple-input multipleoutput (MIMO), the DFRC can achieve high-precision sensing while guaranteeing high-throughput communications, which has emerged as a potential enabler for future B5G and 6G. We investigate the DFRC system with low-complexity hardware, intelligent reflecting surface aided DFRC and performance bound analysis of DFRC.
 
 
-
-<br/><img src="/images/research/3d_genome.jpeg" width = "700">
+<br/><img src="/images/3d_genome.jpeg" width = "700">
 
 Fig. 1: System Model of Millimeter Wave Dual-Function Radar-Communication System.
