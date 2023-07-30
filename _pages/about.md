@@ -76,3 +76,4 @@ blockquote {
 </style>
 
 |  ![TEDx logo](/images/TEDx_logo.webp)  |  ![Forbes logo](/images/30u30_logo.webp)  |  ![Le Monde logo](/images/LM_logo.webp)  |  ![NCI logo](/images/NCI_logo.webp)  |
+|  !<a href="https://carinogurjao.github.io/cv/"> TEDx talk|<a href="https://carinogurjao.github.io/cv/"> Forbes 30 under 30| <a href="https://carinogurjao.github.io/cv/"> Interview with Le Monde | <a href="https://carinogurjao.github.io/cv/"> NCI coverage |
