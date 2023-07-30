@@ -1,28 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Research Focus"
+  - title: "Research Projects"
     url: /research/
     
   - title: "CV"
     url: /files/Resume_CarinoGurjao.pdf
-        
-#  - title: "Talks"
-#    url: /talks/
     
-#  - title: "Recognitions"
-#    url: /Recognitions/
-    
-#  - title: "Research projects"
-#    url: /Research-projects/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#   url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Recognition"
+    url: /recognition/
