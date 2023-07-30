@@ -1,5 +1,5 @@
 ---
-title: "Adjusted variable selection methods"
+title: "Adjusted variable selection methods for large scale genomic data"
 excerpt: ""
 collection: research
 permalink: /research/Variable_selection
@@ -11,7 +11,3 @@ works: '
 </ol>
 '
 ---
-
-<br/><img src="/images/variable_selection.png" width = "700">
-
-Fig. 1: Variable selection

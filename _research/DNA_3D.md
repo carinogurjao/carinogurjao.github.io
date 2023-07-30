@@ -11,7 +11,3 @@ works: '
 </ol>
 '
 ---
-
-<br/><img src="/images/3d_genome.jpeg" width = "700">
-
-Fig. 1: 3D Genome
