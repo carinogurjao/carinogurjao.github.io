@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<h2> Bio </h2>
 👨🏻‍💻 I am a postdoctoral research scientist at Columbia University. <br>
-🔬 My research interests are omics data analysis and integration for cancer <br>
-📚 I’m currently applying for faculty positions in the USA <br>
+🔬 My research interests are in omics data analysis and integration for cancer <br>
+🔍 I’m currently open for faculty positions in cancer research <br>
 
 <h2> Research </h2>
 I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.
