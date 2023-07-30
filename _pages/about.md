@@ -50,7 +50,7 @@ blockquote {
 </style>
 
 |  ![Columbia logo](/images/Columbia_logo.png)  |  ![Harvard logo](/images/Harvard_logo.webp)  |  ![MIT logo](/images/MIT_logo.webp)  |  ![Curie logo](/images/Curie_logo.png)  |
-|**Postdoctoral researcher**<br>(2022-Now)<br>**P.I.:** Izar B, MD/ PhD, Assistant Professor<br>**Research topics:**<br> 1) Role of genetic ancestry in colorectal cancer. <br> 2) Evidence of molecular synergy for combination immunotherapies.|**Computational biologist**<br>(2018-2022)<br>**P.I.:** Giannakis M, MD/PhD, Assistant Professor<br>**Research topics:**<br> 1) Role of diet in colorectal cancer. <br> 2) Genetic and immune determinants of immunotherapy response|**Visiting student**<br>(2016-2017)<br>**P.I.:** Mirny L, PhD, Full Professor<br>**Research topics:**<br> 1) DNA breaks in the three-dimensional cancer genome<br> 2) Evaluation of a biomarker of response to immunotherapy|**Visiting Student**<br>(2015)<br>**P.I.:** Boeva V, PhD, Assistant Professor<br>**Research topics:**<br> 1) Development of a copy number calling algorithm<br> <span style="color:white">some <em>white</em> text</span> <br>  <span style="color:white">some <em>white</em> text</span> <br>  <span style="color:white">some <em>white</em> text</span>|
+|Columbia <br> **Postdoctoral researcher**<br>(2022-Now)<br>**P.I.:** Izar B, MD/ PhD, Assistant Professor<br> | Harvard <br> **Computational biologist**<br>(2018-2022)<br>**P.I.:** Giannakis M, MD/PhD, Assistant Professor<br> | MIT <br> **Visiting student**<br>(2016-2017)<br>**P.I.:** Mirny L, PhD, Full Professor<br> |Institut Curie <br> **Visiting Student**<br>(2015)<br>**P.I.:** Boeva V, PhD, Assistant Professor<br>|
 
 <h2> Recognition </h2>
 <style> 
