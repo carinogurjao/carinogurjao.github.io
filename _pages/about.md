@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<h2> Bio </h2>
+
 <h2> Research </h2>
 
 I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.
@@ -55,6 +57,6 @@ blockquote {
 
 <p> If you want to know more about my academic positions you can take a look at my <a href="https://carinogurjao.github.io/cv/"> CV </a></p> or my <a href="https://carinogurjao.github.io/cv/"> linkedin
 
-<h2> Recognitions </h2>
+<h2> Recognition </h2>
 
 
