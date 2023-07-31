@@ -7,6 +7,7 @@ thumbnail: /images/Focus2.png
 works: '
 <b>Selected Publications:</b> 
 <ol class="part1">
+  <li> C Gurjao et al. is tumor mutational burden predictive of response to immunotherapy?. Cancer Immunology Research 7, 1230–1236 (2019). </li>
   <li> K Yang, Y Cao, C Gurjao*, Y Liu, CG Guo*, et al. Clinical and Genomic Characterization of Interval Colorectal Cancer in Three Prospective Cohorts. Gastroenterology 7, 1230–1236 (2019). </li>
 </ol>
 '
