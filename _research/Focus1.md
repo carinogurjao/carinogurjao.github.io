@@ -7,7 +7,7 @@ thumbnail: /images/Focus1.png
 works: '
 <b>Selected Publications:</b> 
 <ol class="part1">
-  <li> Gurjao, C. et al. Discovery and Features of an Alkylating Signature in Colorectal Cancer. Cancer Discov. (2021) doi:10.1158/2159-8290.CD-20-1656 </li> </li>
+  <li> Gurjao, C. et al. Discovery and Features of an Alkylating Signature in Colorectal Cancer. Cancer Discov. (2021) doi:10.1158/2159-8290.CD-20-1656 </li>
 </ol>
 '
 ---
