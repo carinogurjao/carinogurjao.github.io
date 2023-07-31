@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "We leverage cancer mutational landscapes to inform clinical decisions. Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, however, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers."
+excerpt: "We aim to understand how and where DNA mutates:Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci."
 collection: research
 permalink: /research/Focus1
 thumbnail: /images/Focus1.png
