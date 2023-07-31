@@ -7,7 +7,8 @@ thumbnail: /images/Focus2.png
 works: '
 <b>Selected Publications:</b> 
 <ol class="part1">
-  <li> Gurjao, C. et al. Intrinsic Resistance to Immune Checkpoint Blockade in a Mismatch Repair–Deficient Colorectal Cancer. Cancer Immunol Res 7, 1230–1236 (2019). </li>
+  <li> Gurjao C. et al. Intrinsic Resistance to Immune Checkpoint Blockade in a Mismatch Repair–Deficient Colorectal Cancer. Cancer Immunology Research. </li>
+  <li> Yang K*; Cao Y*, Gurjao C* et al. Clinical and Genomic Characterization of Interval Colorectal Cancer in Three Prospective Cohorts. Gastroenterology 2022. </li>
 </ol>
 '
 ---
