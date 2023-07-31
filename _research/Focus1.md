@@ -7,7 +7,7 @@ thumbnail: /images/variable_selection.png
 works: '
 <b>Selected Publications:</b> 
 <ol class="part1">
-  <li> Gurjao, C., Tsukrov, D., Imakaev, M., Luquette, L. J. & Mirny, L. A. Limited evidence of tumour mutational burden as a biomarker of response to immunotherapy. BioRxiv (2020). </li>
+  <li> Gurjao, C., Tsukrov, D., Imakaev, M., Luquette, L. J. & Mirny, L. A. Limited evidence of tumour mutational burden as a biomarker of response to immunotherapy. eLife (2020). </li>
 </ol>
 '
 ---
