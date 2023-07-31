@@ -13,7 +13,7 @@ redirect_from:
 🔍 I’m currently open for faculty positions!
 
 <h2> Research </h2>
-I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.<br><br>
+Cancer is a disease of the genome. I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.<br><br>
 ![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
 <style>
 table {
