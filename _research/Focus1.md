@@ -1,6 +1,6 @@
 ---
 title: "Objective 3"
-excerpt: "**Adjusting current statistical methods for analyzing and integrating large scale genomic datasets.** Large scale genomic data presents specific challenges, notably multiple hypothesis testing and variable selection. Formulating adjusted statistical models can provide meaningful insights into cancer biology."
+excerpt: "**Adjusting statistical methods to analyze and integrate large scale genomic datasets.** Large scale genomic data presents specific challenges, notably multiple hypothesis testing and variable selection. Formulating adjusted statistical models can provide meaningful insights into cancer biology."
 collection: research
 permalink: /research/Focus3
 thumbnail: /images/variable_selection.png
