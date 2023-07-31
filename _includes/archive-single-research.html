@@ -1,62 +1,166 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2299.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    p.p6 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; background-color: #ffffff}
-    span.s1 {font-kerning: none}
-    span.s2 {font-kerning: none; background-color: #ffffff}
-    span.s3 {font: 18.0px Times; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-    span.s4 {font-kerning: none; color: #000000; background-color: #ffffff; -webkit-text-stroke: 0px #000000}
-    span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
-    td.td1 {width: 522.2px; margin: 0.5px 0.5px 0.5px 0.5px}
-    td.td2 {width: 223.8px; margin: 0.5px 0.5px 0.5px 0.5px}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{% include base_path %} {% if post.header.teaser %} {% capture teaser %}{{ post.header.teaser }}{% endcapture %} {% else %} {% assign teaser = site.teaser %} {% endif %} {% if post.id %} {% assign title = post.title | markdownify | remove: "</span></p>
-<p class="p2"><span class="s1">" | remove: "</span></p>
-<p class="p1"><span class="s1">" %} {% else %} {% assign title = post.title %} {% endif %}</span></p>
-<p class="p1"><span class="s2">{% if include.type == "grid" and teaser %}</span></p>
-<p class="p1"><span class="s1"><img src="file:///Attachment.png" alt="Attachment.png"></span></p>
-<p class="p1"><span class="s2">{% endif %}</span></p>
-<table cellspacing="0" cellpadding="0">
-  <tbody>
-    <tr>
-      <td valign="top" class="td1">
-        <h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s2"><b>{% if post.link %} </b><a href="file:///Users/cd3335/Documents/GitHub/carinogurjao.github.io/_includes/%7B%7B%20post.link%20%7D%7D"><span class="s3"><b>{{ title }}</b></span></a><b> </b><a href="file:///Users/cd3335/Documents/GitHub/carinogurjao.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"><span class="s3"><b>Permalink </b></span></a><b>{% else %} </b><a href="file:///Users/cd3335/Documents/GitHub/carinogurjao.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"><span class="s3"><b>{{ title }}</b></span></a><b> {% endif %}</b></span></h2>
-        <p class="p1"><span class="s2">{% if post.read_time %}</span></p>
-        <p class="p2"><span class="s2">{% include read-time.html %}</span></p>
-        <p class="p1"><span class="s2">{% endif %} {% if post.collection == 'research' %}</span></p>
-        <p class="p2"><span class="s2"><b>{{ post.restime}}</b></span></p>
-        <p class="p1"><span class="s2">{% endif %} {% if post.excerpt and site.read_more != 'enabled' %}</span></p>
-        <p class="p1"><span class="s2">{{ post.excerpt | markdownify }}</span></p>
-        <p class="p1"><span class="s2">{% elsif post.excerpt and site.read_more == 'enabled' %}</span></p>
-        <p class="p4"><span class="s1"></span><br></p>
-        <p class="p1"><span class="s2">{{ post.excerpt | markdownify | remove: '</span></p>
-        <p class="p2"><span class="s2">' | remove: '</span></p>
-        <p class="p5"><span class="s4">' }} <a href="file:///Users/cd3335/Documents/GitHub/carinogurjao.github.io/_includes/%7B%7B%20base_path%20%7D%7D%7B%7B%20post.url%20%7D%7D"><span class="s5"><b>Read more</b></span></a></span></p>
-        <p class="p6"><span class="s1"></span><br></p>
-        <p class="p6"><span class="s1"></span><br></p>
-        <p class="p1"><span class="s2">{% endif %}</span></p>
-      </td>
-      <td valign="baseline" class="td2">
-        <p class="p1"><span class="s1"><img src="file:///Attachment.png" alt="Attachment.png"></span></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p class="p1"><span class="s2">{% if post.works %}</span></p>
-<p class="p2"><span class="s2">{{ post.works }}</span></p>
-<p class="p7"><span class="s1">{% endif %}</span></p>
-</body>
-</html>
+{% include base_path %}
+
+{% if post.header.teaser %}
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+{% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+{% assign title = post.title %}
+{% endif %}
+
+<style>
+
+    li {
+        margin-bottom: 5px !important;
+        margin-top: -5px !important;
+    }
+    
+    .part1 {
+        margin:0;
+        padding:0px;
+        padding-left:20px;
+        margin-top: -20px !important;
+        margin-bottom: -10px !important;
+    }
+    
+    .about {
+
+    }
+
+    .card-body {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        background: #fff;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+        transition: all 0.2s ease-out;
+        border: 1px solid rgba(0, 0, 0, .125);
+        border-radius: .25rem;
+        padding: 1em;
+    }
+
+    .card {
+        margin-bottom: 1em;
+        padding: 0.5rem;
+    }
+
+    .right {
+        float: right !important;
+    }
+
+    h4.title {
+        font-size: 0.9rem;
+        text-transform: none !important;
+        margin-bottom: 0 !important;
+        margin-top: 0 !important;
+    }
+
+    h4.card {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        font-weight: normal !important;
+        text-transform: none !important;
+        margin-bottom: 0 !important;
+        margin-top: 0 !important;
+    }
+
+    .card-description {
+        font-size: smaller;
+        margin-top: 1em;
+    }
+
+    a.card-link {
+        font-size: larger;
+        color: darkcyan;
+    }
+    .archive__item-title {
+        margin-top: 0.25em;
+    }
+    .top-container {
+        display: table;
+    }
+    .left-title {
+        width: 70%;
+        display: table-cell;
+        vertical-align: top;
+    }
+    .thumbnail {
+        width: 30%;
+        display: table-cell;
+    }
+
+    .pub-venue {
+    }
+    p.archive__item-excerpt, .archive__item-excerpt+p {
+        margin-bottom: 0;
+    }
+</style>
+
+
+<div class="{{ include.type | default: 'list' }}__item card">
+    <article class="archive__item card-body" itemscope itemtype="http://schema.org/CreativeWork"
+    >
+        {% if include.type == "grid" and teaser %}
+        <div class="archive__item-teaser">
+            <img src=
+                {% if teaser contains "://" %}
+                    "{{ teaser }}"
+                {% else %}
+                    "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+                    {% endif %}
+            alt="">
+        </div>
+        {% endif %}
+
+        <div class="top-container">
+            <div class="left-title">
+                <h2 class="archive__item-title" itemprop="headline">
+                {% if post.link %}
+                    <a href="{{ post.link }}">{{ title }}</a>
+                    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+                        <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
+                        <span class="sr-only">Permalink</span>
+                    </a>
+                {% else %}
+                    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+                {% endif %}
+                </h2>
+                {% if post.read_time %}
+                    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+                {% endif %}
+
+                {% if post.collection == 'research' %}
+                    <p class="page__date">
+                        <strong>
+                            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+                        </strong>
+                        <b>{{ post.restime}}</b>
+                    </p>
+                {% endif %}
+
+                {% if post.excerpt and site.read_more != 'enabled' %}
+                    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+                {% elsif post.excerpt and site.read_more == 'enabled' %}
+                    <p class="archive__item-excerpt" itemprop="description"><p>
+                            {{ post.excerpt | markdownify | remove: '
+                        <p>' | remove: '</p>' }}
+                        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+                    </p></p>
+                {% endif %}
+            </div>
+            <div class="thumbnail">
+                <img src='{{ post.thumbnail }}' alt="Thumbnail">
+            </div>
+        </div>
+
+
+        {% if post.works %}
+            <p style="margin-top: 0">
+                {{ post.works }}
+            </p>
+        {% endif %}
+    </article>
+</div>
