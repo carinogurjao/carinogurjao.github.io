@@ -4,7 +4,6 @@ permalink: /recognition/
 author_profile: true
 ---
 
-<h2> Recognition </h2>
 <style> 
 table {
     border-spacing: 0;
