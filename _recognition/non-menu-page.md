@@ -1,9 +1,3 @@
----
-layout: archive
-permalink: /recognition/
-author_profile: true
----
-
 <style> 
 table {
     border-spacing: 0;
