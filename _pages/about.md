@@ -13,7 +13,7 @@ redirect_from:
 🔍 I’m currently open for faculty positions!
 
 <h2> Research </h2>
-Cancer is a disease of the genome. I study DNA patterns in the tumor genome. I aim to better understand which factors shape these patterns and how they can in return inform clinical decisions.<br><br>
+Cancer is a disease of the genome. I study DNA patterns in the tumor genome to better understand what factors shape these patterns and how they can in return inform clinical decisions. <br><br>
 ![Illustration of my research interests](/images/Research_interest.png){: .align-center width="800px"}
 <style>
 table {
@@ -31,7 +31,7 @@ blockquote {
 </style>
 
 | **What shapes the tumor mutational landscape?** | **How can the mutational landscape inform clinical decisions?** |
-| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci. | Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, however, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers. |
+| Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called the "neoantigen theory"). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci. | The FDA has been approving more and more cancer therapies and combinations of them. Despite being effective for several cancer types, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment and predict the aggressiveness of certain cancers.|
 
 <h2> Experience </h2>
 <style> 
