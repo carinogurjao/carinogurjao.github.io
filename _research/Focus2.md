@@ -1,6 +1,6 @@
 ---
 title: "Objective 2"
-excerpt: "**Leveraging mutational landscapes to inform clinical decisions.** Cancer therapies, as well as combinations of them, are being FDA-approved at an increasing rate. Despite being effective for several cancer types, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment, as well as predict the aggresiveness of certain cancers."
+excerpt: "**Leveraging mutational landscapes to inform clinical decisions.** The FDA has been approving more and more cancer therapies and combinations of them. Despite being effective for several cancer types, their clinical use is encumbered by a high variability in patient response. Studying the mutational landscape of tumors can inform the best course of treatment and predict the aggressiveness of certain cancers."
 collection: research
 permalink: /research/Focus2
 thumbnail: /images/Focus2.png

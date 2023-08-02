@@ -1,6 +1,6 @@
 ---
 title: "Objective 1"
-excerpt: "**Understanding how and where DNA mutations occur.** Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations, a theory called 'neoantigen theory'. Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci."
+excerpt: "**Understanding how and where DNA mutations occur.** Lifestyle habits and the microbiome can be genotoxic and leave an imprint on tumor DNA. The immune system can shape the mutational landscape as well by weeding out cells with certain mutations (a theory called the “neoantigen theory”). Additionally, DNA-intrinsic features such as the 3D conformation and the 2D base sequence favor mutations at certain loci."
 collection: research
 permalink: /research/Focus1
 thumbnail: /images/Focus1.png
